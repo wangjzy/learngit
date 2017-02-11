@@ -7,3 +7,4 @@ I love alibaba.
 version - 1
 version - 2
 
+我只是学习一下git的使用，不会被开除吧。。。
